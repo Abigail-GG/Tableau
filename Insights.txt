@@ -1,0 +1,8 @@
+Insights of Citybank analysis
+
+I found out that the trips decrase by 30% in Q4 from October to December 2020.
+68% of the trips are made from male.
+And the female ridership decrease across time.
+Female's trips are longer in time and distance than male's and rides froms younger people (15-25) last more than older people.
+The pick hour is in the afternoon at 5pm.
+ 
